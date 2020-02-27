@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Login Suite">
+    <test name="Login test">
+        <classes>
+
+            <class name="TS.CreateTaskTC"></class>
+        </classes>
+        
+    </test>
+    
+</suite>
